@@ -1,6 +1,6 @@
-idItem;idPedido;idProduto;qtVenda;
-1;1;1;2;
-2;2;3;5;
-3;3;2;1;
-4;4;4;7;
-5;5;5;4;
+idPedido;idProduto;qtVenda;precoVenda
+1;1;2;200.00
+2;3;5;100.00
+3;2;1;230.00
+4;4;7;343.00
+5;5;4;534.00
